@@ -1,0 +1,33 @@
+# Visual Studio / C# Windows Forms
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+
+# Visual Studio cache/options
+.vs/
+*.dbmdl
+*.dbproj.schemaview
+
+# Other
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.config
+*.json
+
+# Auto-generated databases
+*.db
+*.sqlite
+
